@@ -1,0 +1,7 @@
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Euquazione_Secondo_Grado\Euquazione_Secondo_Grado\bin\Debug\Euquazione_Secondo_Grado.exe.config
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Euquazione_Secondo_Grado\Euquazione_Secondo_Grado\bin\Debug\Euquazione_Secondo_Grado.exe
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Euquazione_Secondo_Grado\Euquazione_Secondo_Grado\bin\Debug\Euquazione_Secondo_Grado.pdb
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Euquazione_Secondo_Grado\Euquazione_Secondo_Grado\obj\Debug\Euquazione_Secondo_Grado.csproj.AssemblyReference.cache
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Euquazione_Secondo_Grado\Euquazione_Secondo_Grado\obj\Debug\Euquazione_Secondo_Grado.csproj.CoreCompileInputs.cache
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Euquazione_Secondo_Grado\Euquazione_Secondo_Grado\obj\Debug\Euquazione_Secondo_Grado.exe
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Euquazione_Secondo_Grado\Euquazione_Secondo_Grado\obj\Debug\Euquazione_Secondo_Grado.pdb

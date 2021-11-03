@@ -1,0 +1,7 @@
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Temperature1\Temperature1\bin\Debug\Temperature1.exe.config
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Temperature1\Temperature1\bin\Debug\Temperature1.exe
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Temperature1\Temperature1\bin\Debug\Temperature1.pdb
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Temperature1\Temperature1\obj\Debug\Temperature1.csproj.AssemblyReference.cache
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Temperature1\Temperature1\obj\Debug\Temperature1.csproj.CoreCompileInputs.cache
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Temperature1\Temperature1\obj\Debug\Temperature1.exe
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Temperature1\Temperature1\obj\Debug\Temperature1.pdb

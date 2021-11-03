@@ -1,0 +1,7 @@
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Cellulari\Cellulari\bin\Debug\Cellulari.exe.config
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Cellulari\Cellulari\bin\Debug\Cellulari.exe
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Cellulari\Cellulari\bin\Debug\Cellulari.pdb
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Cellulari\Cellulari\obj\Debug\Cellulari.csproj.AssemblyReference.cache
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Cellulari\Cellulari\obj\Debug\Cellulari.csproj.CoreCompileInputs.cache
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Cellulari\Cellulari\obj\Debug\Cellulari.exe
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Cellulari\Cellulari\obj\Debug\Cellulari.pdb

@@ -1,0 +1,7 @@
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Calciatore\Calciatore\bin\Debug\Calciatore.exe.config
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Calciatore\Calciatore\bin\Debug\Calciatore.exe
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Calciatore\Calciatore\bin\Debug\Calciatore.pdb
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Calciatore\Calciatore\obj\Debug\Calciatore.csproj.AssemblyReference.cache
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Calciatore\Calciatore\obj\Debug\Calciatore.csproj.CoreCompileInputs.cache
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Calciatore\Calciatore\obj\Debug\Calciatore.exe
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Calciatore\Calciatore\obj\Debug\Calciatore.pdb

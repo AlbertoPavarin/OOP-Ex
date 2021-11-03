@@ -1,0 +1,7 @@
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Squadre\Squadre\bin\Debug\Squadre.exe.config
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Squadre\Squadre\bin\Debug\Squadre.exe
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Squadre\Squadre\bin\Debug\Squadre.pdb
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Squadre\Squadre\obj\Debug\Squadre.csproj.AssemblyReference.cache
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Squadre\Squadre\obj\Debug\Squadre.csproj.CoreCompileInputs.cache
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Squadre\Squadre\obj\Debug\Squadre.exe
+C:\Users\ricky\Desktop\Scuola\Informatica\4F\Squadre\Squadre\obj\Debug\Squadre.pdb

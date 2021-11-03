@@ -1,0 +1,7 @@
+E:\4F\Circonferenza\Circonferenza\bin\Debug\Circonferenza.exe.config
+E:\4F\Circonferenza\Circonferenza\bin\Debug\Circonferenza.exe
+E:\4F\Circonferenza\Circonferenza\bin\Debug\Circonferenza.pdb
+E:\4F\Circonferenza\Circonferenza\obj\Debug\Circonferenza.csproj.AssemblyReference.cache
+E:\4F\Circonferenza\Circonferenza\obj\Debug\Circonferenza.csproj.CoreCompileInputs.cache
+E:\4F\Circonferenza\Circonferenza\obj\Debug\Circonferenza.exe
+E:\4F\Circonferenza\Circonferenza\obj\Debug\Circonferenza.pdb
