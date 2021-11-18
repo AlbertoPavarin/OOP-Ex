@@ -1,0 +1,7 @@
+E:\4F\ContoCorrente\ContoCorrente\bin\Debug\ContoCorrente.exe.config
+E:\4F\ContoCorrente\ContoCorrente\bin\Debug\ContoCorrente.exe
+E:\4F\ContoCorrente\ContoCorrente\bin\Debug\ContoCorrente.pdb
+E:\4F\ContoCorrente\ContoCorrente\obj\Debug\ContoCorrente.csproj.AssemblyReference.cache
+E:\4F\ContoCorrente\ContoCorrente\obj\Debug\ContoCorrente.csproj.CoreCompileInputs.cache
+E:\4F\ContoCorrente\ContoCorrente\obj\Debug\ContoCorrente.exe
+E:\4F\ContoCorrente\ContoCorrente\obj\Debug\ContoCorrente.pdb
