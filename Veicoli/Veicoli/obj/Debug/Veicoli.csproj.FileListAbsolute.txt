@@ -1,0 +1,6 @@
+/Users/erpavac/Desktop/Albi/Informatica/4F/Veicoli/Veicoli/obj/Debug/Veicoli.csproj.AssemblyReference.cache
+/Users/erpavac/Desktop/Albi/Informatica/4F/Veicoli/Veicoli/obj/Debug/Veicoli.csproj.CoreCompileInputs.cache
+/Users/erpavac/Desktop/Albi/Informatica/4F/Veicoli/Veicoli/bin/Debug/Veicoli.exe
+/Users/erpavac/Desktop/Albi/Informatica/4F/Veicoli/Veicoli/bin/Debug/Veicoli.pdb
+/Users/erpavac/Desktop/Albi/Informatica/4F/Veicoli/Veicoli/obj/Debug/Veicoli.exe
+/Users/erpavac/Desktop/Albi/Informatica/4F/Veicoli/Veicoli/obj/Debug/Veicoli.pdb
