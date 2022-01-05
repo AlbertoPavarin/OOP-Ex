@@ -1,0 +1,6 @@
+/Users/erpavac/Desktop/Albi/Informatica/Es3_Aerei/Es3_Aerei/bin/Debug/Es3_Aerei.exe
+/Users/erpavac/Desktop/Albi/Informatica/Es3_Aerei/Es3_Aerei/bin/Debug/Es3_Aerei.pdb
+/Users/erpavac/Desktop/Albi/Informatica/Es3_Aerei/Es3_Aerei/obj/Debug/Es3_Aerei.csproj.AssemblyReference.cache
+/Users/erpavac/Desktop/Albi/Informatica/Es3_Aerei/Es3_Aerei/obj/Debug/Es3_Aerei.csproj.CoreCompileInputs.cache
+/Users/erpavac/Desktop/Albi/Informatica/Es3_Aerei/Es3_Aerei/obj/Debug/Es3_Aerei.exe
+/Users/erpavac/Desktop/Albi/Informatica/Es3_Aerei/Es3_Aerei/obj/Debug/Es3_Aerei.pdb

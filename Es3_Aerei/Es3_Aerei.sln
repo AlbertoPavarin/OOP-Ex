@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es3_Aerei", "Es3_Aerei\Es3_Aerei.csproj", "{E602D834-94DA-489C-9F13-73D540B0B081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E602D834-94DA-489C-9F13-73D540B0B081}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E602D834-94DA-489C-9F13-73D540B0B081}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E602D834-94DA-489C-9F13-73D540B0B081}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E602D834-94DA-489C-9F13-73D540B0B081}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B97FB03-2401-49FE-B9B1-D30587411088}
+	EndGlobalSection
+EndGlobal
