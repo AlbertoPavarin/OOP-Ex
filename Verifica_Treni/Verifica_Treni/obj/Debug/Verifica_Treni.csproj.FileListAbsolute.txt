@@ -1,0 +1,7 @@
+C:\Users\Studente\Desktop\Verifica_Treni\Verifica_Treni\obj\Debug\Verifica_Treni.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Verifica_Treni\Verifica_Treni\obj\Debug\Verifica_Treni.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Verifica_Treni\Verifica_Treni\bin\Debug\Verifica_Treni.exe.config
+C:\Users\Studente\Desktop\Verifica_Treni\Verifica_Treni\bin\Debug\Verifica_Treni.exe
+C:\Users\Studente\Desktop\Verifica_Treni\Verifica_Treni\bin\Debug\Verifica_Treni.pdb
+C:\Users\Studente\Desktop\Verifica_Treni\Verifica_Treni\obj\Debug\Verifica_Treni.exe
+C:\Users\Studente\Desktop\Verifica_Treni\Verifica_Treni\obj\Debug\Verifica_Treni.pdb
